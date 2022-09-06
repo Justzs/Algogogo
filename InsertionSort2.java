@@ -1,4 +1,4 @@
-public class MainCounter {
+public class InsertionSort2 {
     public static long counter = 0;
     public static void sort(int[] arr) {
         for (int i = 1; i < arr.length; ++i) {
