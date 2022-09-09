@@ -27,9 +27,9 @@ int main() {
     int n, k, i;
     for (n = 2000; n <= maxlist; n+=range){
         int d[n];
-        clock_t start_time;
-        clock_t end_time1;
-        clock_t result;
+//      clock_t start_time;
+//      clock_t end_time1;
+//      clock_t result;
         long sum = 0;
         for (k=0; k<repeat; k++){
             for (i=n-1; i>=0; i--){
