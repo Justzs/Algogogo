@@ -1,1 +1,1 @@
-# Algogogo Compare algorithm performance each programming language using counting commands and counting time.
+# Algogogo Compare algorithm performance each programming language using counting commands and counting times.
